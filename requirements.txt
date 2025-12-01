@@ -1,7 +1,7 @@
 streamlit
 torch
 torchvision
-opencv-python
+opencv-python-headless  # ← GANTI DARI opencv-python
 Pillow
 numpy
 facenet-pytorch
