@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "label": "Unknown_57",
+    "nim": "N/A",
+    "kelas": "N/A",
+    "confidence": 100.0,
+    "timestamp": "2025-12-01T21:34:18.004563",
+    "date": "2025-12-01",
+    "time": "21:34:18",
+    "status": "present"
+  },
+  {
+    "id": 2,
+    "label": "Unknown_45",
+    "nim": "N/A",
+    "kelas": "N/A",
+    "confidence": 97.56,
+    "timestamp": "2025-12-01T21:35:21.310003",
+    "date": "2025-12-01",
+    "time": "21:35:21",
+    "status": "present"
+  },
+  {
+    "id": 3,
+    "label": "machzaul harmansyah",
+    "nim": "N/A",
+    "kelas": "N/A",
+    "confidence": 100.0,
+    "timestamp": "2025-12-01T21:39:58.753324",
+    "date": "2025-12-01",
+    "time": "21:39:58",
+    "status": "present"
+  }
+]
