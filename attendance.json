@@ -31,5 +31,27 @@
     "date": "2025-12-01",
     "time": "21:39:58",
     "status": "present"
+  },
+  {
+    "id": 4,
+    "label": "rayhan fatih gunawan",
+    "nim": "N/A",
+    "kelas": "N/A",
+    "confidence": 100.0,
+    "timestamp": "2025-12-01T22:07:28.991593",
+    "date": "2025-12-01",
+    "time": "22:07:28",
+    "status": "present"
+  },
+  {
+    "id": 5,
+    "label": "zakhi algifari",
+    "nim": "N/A",
+    "kelas": "N/A",
+    "confidence": 64.93,
+    "timestamp": "2025-12-01T22:19:13.769594",
+    "date": "2025-12-01",
+    "time": "22:19:13",
+    "status": "present"
   }
 ]
